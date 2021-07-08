@@ -1,0 +1,18 @@
+Project_1_Postgres/Guidelines/
+Project_1_Postgres/Data/
+
+Project_2_Cassandra/Guidelines/
+
+Project_3_Redshift/Guidelines/
+Project_3_Redshift/AWS cred.rtf
+Project_3_Redshift/dwh.cfg
+
+Project_4_EMR_Spark/Guidelines/
+Project_4_EMR_Spark/Data/
+Project_4_EMR_Spark/dl.cfg
+
+Project_5_Airflow/Guidelines/
+Project_5_Airflow/Review/
+Project_5_Airflow/airflow_udacity_user.csv
+
+Project_6_Capstone/dl.cfg
